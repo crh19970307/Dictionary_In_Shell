@@ -11,4 +11,4 @@
     
    ##运行截图
    
-   ![image](dict.pngg)
+   ![image](dict.png)
