@@ -25,7 +25,7 @@ docker pull ruiheng/shell-dictionary:dic
 Then
 
 ```bash
-docker container run -it dictionary
+docker container run -it ruiheng/shell-dictionary:dic
 ```
 
 Then you run into the shell environment and other commands are the same.
