@@ -19,7 +19,7 @@ User input the word in the shell, the script send http request and return the re
 For docker users, you can pull the image from dockerhub.
 
 ```bash
-docker pull ruiheng/shell-dictionary
+docker pull ruiheng/shell-dictionary:dic
 ```
 
 Then
